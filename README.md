@@ -49,9 +49,6 @@ python db_mcp_server.py --sse
 streamlit run chat.py
 ```
 
-Open in browser:  
-http://localhost:8501
-
 ---
 
 ## 📂 Project Structure
